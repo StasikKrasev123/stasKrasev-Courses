@@ -1,0 +1,18 @@
+.text{
+    text-shadow: 1px 1px 1px silver,
+               -1px 1px 1px silver;
+  color: white;
+  transition: all .5s;
+    border: 1px solid black;
+}
+.text:hover{
+    text-shadow: -1px -1px 1px silver,
+                 1px -1px 1px silver;
+    color: white;
+}
+
+.images img{
+    width: 300px;
+    height: 300px;
+    border: 1px solid green;
+}
