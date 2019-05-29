@@ -1,23 +1,21 @@
-header{
+header {
     height: 300px;
 }
 
-.clear{
-    clear: both;
-}
 
-ul{
+
+ul {
     list-style-type: none;
     border: 1px solid black;
     width: 45.5%;
     margin-right: auto;
 }
 
-.logo{
-    background-image: url(../images/logo.png) ;
+.logo {
+    background-image: url(../images/logo.png);
     background-size: cover;
     height: 200px;
     width: 50%;
     border: 1px solid black;
-    margin-left:auto;
+    margin-left: auto;
 }

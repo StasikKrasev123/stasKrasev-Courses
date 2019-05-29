@@ -1,20 +1,20 @@
-.information{
-    overflow: hidden;
+.information {
+  overflow: hidden;
   text-shadow: 0 0 tomato,
-               0 0 yellowgreen,
-               0 0 skyblue;
+    0 0 yellowgreen,
+    0 0 skyblue;
   color: transparent;
   transition: all 1s;
 }
 
-.information:hover{
-    text-shadow: 1px -1px 0 hsl(290,100%,40%),
-    2px -2px 0 hsl(290,100%,40%),
-    3px -3px 0 hsl(280,100%,60%),
-    4px -4px 0 hsl(280,100%,60%),
-    5px -5px 0 hsl(270,100%,75%),
-    6px -6px 0 hsl(270,100%,80%),
-    7px -7px 0 hsl(260,100%,85%),
-    8px -8px 0 hsl(260,100%,90%);
-color: hsl(300,100%,30%);
+.information:hover {
+  text-shadow: 1px -1px 0 hsl(290, 100%, 40%),
+    2px -2px 0 hsl(290, 100%, 40%),
+    3px -3px 0 hsl(280, 100%, 60%),
+    4px -4px 0 hsl(280, 100%, 60%),
+    5px -5px 0 hsl(270, 100%, 75%),
+    6px -6px 0 hsl(270, 100%, 80%),
+    7px -7px 0 hsl(260, 100%, 85%),
+    8px -8px 0 hsl(260, 100%, 90%);
+  color: hsl(300, 100%, 30%);
 }
