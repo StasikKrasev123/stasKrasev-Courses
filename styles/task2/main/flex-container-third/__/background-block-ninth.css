@@ -1,0 +1,22 @@
+.background-block-ninth{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: #ffffff;
+    width: 25%;
+    height: 200px;
+    text-align: center;
+    justify-content: flex-end;
+}
+
+.fa-html5 {
+    color: gray;
+}
+
+.flex-container-third__text-eigth {
+    color: gray;
+}
+
+.flex-container-third__text-seventh {
+    color: gray;
+}

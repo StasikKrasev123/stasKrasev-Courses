@@ -1,0 +1,24 @@
+.background-block-eigth{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: #161616;
+    width: 25%;
+    height: 200px;
+    text-align: center;
+    justify-content: flex-end;
+}
+
+.fa-calculator {
+    color: white;
+}
+
+.flex-container-third__text-fifth {
+    color: white;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.flex-container-third__text-sixth {
+    color: white;
+    font-family: 'Source Sans Pro', sans-serif;
+}

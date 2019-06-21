@@ -1,0 +1,11 @@
+.footer__copy-text {
+    color: gray;
+    font-size: 12px;
+    font-family: 'Source Sans Pro', sans-serif;
+    opacity: 0.5;
+}
+
+.footer__copy-text:hover {
+    color: orange;
+    transition: 1s linear;
+}

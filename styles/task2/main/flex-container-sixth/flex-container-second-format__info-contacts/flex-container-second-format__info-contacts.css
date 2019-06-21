@@ -1,0 +1,9 @@
+.flex-container-second-format__info-contacts {
+    display: flex;
+    flex-direction: column;
+    align-content: flex-start;
+    justify-content: flex-start;
+    width: 25%;
+    height: 700px;
+    background-color: black;
+}

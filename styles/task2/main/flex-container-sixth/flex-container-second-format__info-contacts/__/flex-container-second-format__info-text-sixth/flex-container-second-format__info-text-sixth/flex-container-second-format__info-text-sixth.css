@@ -1,0 +1,12 @@
+.flex-container-second-format__info-text-sixth {
+    color: gray;
+    font-size: 15px;
+    font-family: 'Source Sans Pro', sans-serif;
+    margin-left: 5%;
+    margin-top: 0px;
+}
+
+.flex-container-second-format__info-text-sixth:hover {
+    color: orange;
+    transition: 1s linear;
+}

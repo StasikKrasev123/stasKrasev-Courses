@@ -1,0 +1,24 @@
+.background-block-seventh {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: #e9714c;
+    width: 25%;
+    height: 200px;
+    text-align: center;
+    justify-content: flex-end;
+}
+
+.fa-telegram-plane {
+    color: white;
+}
+
+.flex-container-third__text-third {
+    color: white;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.flex-container-third__text-fourth {
+    color: white;
+    font-family: 'Source Sans Pro', sans-serif;
+}

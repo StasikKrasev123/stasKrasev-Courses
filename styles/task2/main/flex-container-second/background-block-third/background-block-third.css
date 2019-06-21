@@ -1,0 +1,8 @@
+.background-block-third{
+    display: flex;
+    width: 50%;
+    flex-direction: column;
+    justify-content:flex-start;
+    align-content: flex-start;
+    height: 350px;
+}

@@ -1,0 +1,15 @@
+.flex-container-second-format__form-button{
+    background-color: white;
+    font-family: 'Source Sans Pro', sans-serif;
+    border-radius: 15px;
+    display: block;
+    height: 35px;
+    width: 225px;
+    border: 2px solid white;
+}
+
+.flex-container-second-format__form-button:hover{
+    background-color: #e4a33c;
+    border-color: #e4a33c;
+    transition: 0.7s linear;
+}

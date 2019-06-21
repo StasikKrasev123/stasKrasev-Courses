@@ -1,4 +1,4 @@
-line = '4of Fo1r pe6ople g3ood th5e the2'
+line = 'is2 Thi1s T4est 3a"'
 splited_arr = line.split(' ')
 new_arr = []
 correct_line = ''
@@ -9,3 +9,5 @@ for num in numbers:
         if str(num) in word:
             new_arr.append(word)
             correct_line = ' '.join(new_arr)
+
+print(correct_line)

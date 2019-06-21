@@ -1,0 +1,13 @@
+.flex-container-second-format__text-name {
+    color: white;
+    background-color: #e9714c;
+    border: none;
+    font-size: 15px;
+    margin-bottom: 10px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.flex-container-second-format__text-name:active{
+    border: none;
+}
+

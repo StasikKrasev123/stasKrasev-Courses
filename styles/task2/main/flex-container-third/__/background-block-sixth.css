@@ -1,0 +1,25 @@
+.background-block-sixth {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #e4ae58;
+    width: 25%;
+    height: 200px;
+    text-align: center;
+    justify-content: flex-end;
+}
+
+.fa-desktop {
+    color: white;
+}
+
+.flex-container-third__text-first {
+    color: white;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.flex-container-third__text-second {
+    color: white;
+    font-family: 'Source Sans Pro', sans-serif;
+}
